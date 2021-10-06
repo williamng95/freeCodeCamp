@@ -9,5 +9,4 @@ function palindrome(str) {
   }
   
   
-  
 console.log(palindrome("eye"));
