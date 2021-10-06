@@ -7,6 +7,6 @@ function palindrome(str) {
     }
     return forwardArr.join()==reverseArr;
   }
-  
-  
+
+
 console.log(palindrome("eye"));
