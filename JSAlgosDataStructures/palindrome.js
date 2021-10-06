@@ -10,4 +10,4 @@ function palindrome(str) {
   
   
   
-console.log(palindrome("eye"));
+ console.log(palindrome("eye"));
